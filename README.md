@@ -26,13 +26,19 @@ FileNic은 이러한 차이를 자동으로 해결하여 양쪽 운영체제에�
 - 모든 파일 처리는 사용자의 컴퓨터에서 로컬로 진행 (서버 통신 없음)
 
 ## 설치 방법
+### 앱스토어 공식 설치 (권장)
+<a href="https://apps.apple.com/kr/app/%ED%8C%8C%EC%9D%BC%EB%8B%89-%EC%9E%90%EC%86%8C%EB%B6%84%EB%A6%AC-%EC%97%86%EC%9D%B4-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C/id6740508269?mt=12&itscg=30200&itsct=apps_box_badge&mttnsubad=6740508269" style="display: inline-block;">
+<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ko-kr?releaseDate=1737676800" alt="Download on the App Store" style="width: 267px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
+    
+
+### 직접 다운로드
 1. [릴리즈 페이지](https://github.com/0126kjw/FileNic/releases/latest)에서 최신 버전 다운로드
 2. 다운로드한 파일 압축 해제
 3. FileNic.app을 응용프로그램 폴더로 이동
 
 ### 향후 지원 예정
 - Homebrew
-- AppStore
 
 ## 사용 방법
 > 이제 메뉴바 아이콘 아래 드롭존에서도 변환할 수 있습니다! (v1.0.4)
@@ -50,6 +56,9 @@ FileNic은 이러한 차이를 자동으로 해결하여 양쪽 운영체제에�
 - 변환 결과 확인을 위해 **시스템 알림** 권한이 필요합니다
 
 ## 업데이트 내역
+### 2024-01-25:
+- App Store 공식 배포
+
 ### 2024-01-15 (v1.0.5):
 - 폴더 변환 기능 추가
 - 폴더 변환 시 폴더명만 변환할지, 하위 파일명까지 변환할지 선택 가능
