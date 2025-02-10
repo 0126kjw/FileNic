@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/endpoint?url=https://zdxl2n129h.execute-api.ap-northeast-2.amazonaws.com/count)
+
 # FileNic (파일닉)
 맥OS와 윈도우 사이의 한글 파일명 호환 문제를 해결하는 간단한 도구입니다.
 
